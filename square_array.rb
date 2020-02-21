@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  numbers = array.each ** 2 
+  new_array = numbers
 end
